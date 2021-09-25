@@ -18,10 +18,9 @@ const NotFoundPage = () => (
   <Layout>
     <SEO title="404" description="Page Not Found" />
     <Container>
-      <PageTitle>Page Not Found</PageTitle>
+      <PageTitle>Упс... Страница не найдена.</PageTitle>
       <Text>
-        Please return <Link to="/">home</Link> or use the menu to navigate to a
-        different page.
+        Вернитесь на <Link to="/">главную</Link> или выберите нужную страницу в меню.
       </Text>
     </Container>
   </Layout>
