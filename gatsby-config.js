@@ -24,17 +24,22 @@ module.exports = {
     image: '/images/share.jpg',
     menuLinks: [
       {
-        name: 'Home',
+        name: 'Главная',
         slug: '/',
       },
       {
-        name: 'About',
+        name: 'О нас',
         slug: '/about/',
       },
       {
-        name: 'Contact',
+        name: 'Контакты',
         slug: '/contact/',
       },
+      {
+        name: 'Тестовая',
+        slug: '/test/',
+      },
+
     ],
     postsPerFirstPage: 7,
     postsPerPage: 6,
