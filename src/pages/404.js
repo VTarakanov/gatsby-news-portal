@@ -16,7 +16,7 @@ const Text = styled.p`
 
 const NotFoundPage = () => (
   <Layout>
-    <SEO title="404" description="Page Not Found" />
+    <SEO title="404" description="Страница не найдена" />
     <Container>
       <PageTitle>Упс... Страница не найдена.</PageTitle>
       <Text>
